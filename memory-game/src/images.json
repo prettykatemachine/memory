@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "imageURL": "http://0e33611cb8e6da737d5c-e13b5a910e105e07f9070866adaae10b.r15.cf1.rackcdn.com/Sylvain-Weiller-texture-image-SW-D_30size_1453940705_lg.png"
+    },
+    {
+        "id": 2,
+        "imageURL": "https://c.tadst.com/gfx/750x500/moon-phase-waning-crescent.jpg"
+    },
+    {
+        "id": 3,
+        "imageURL": "https://images.pexels.com/photos/87611/sun-fireball-solar-flare-sunlight-87611.jpeg"
+    },
+    {
+        "id": 4,
+        "imageURL": "https://images.pexels.com/photos/39561/solar-flare-sun-eruption-energy-39561.jpeg"
+    },
+    {
+        "id": 5,
+        "imageURL": "https://theplantnewspaper.com/wp-content/uploads/2018/02/dawson-blues.jpg"
+    },
+    {
+        "id":6,
+        "imageURL": "https://imgix.bustle.com/uploads/getty/2018/7/19/23da818d-50f2-41cf-8d03-96c9b73b2e78-getty-926177034.jpg"
+    },
+    {
+        "id": 7,
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Full_moon.png/600px-Full_moon.png"
+    },
+    {
+        "id": 8,
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Schiaparelli_Hemisphere_Enhanced.jpg/600px-Schiaparelli_Hemisphere_Enhanced.jpg"
+    },
+    {
+        "id": 9,
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Eclipse20070304-2.JPG"
+    },
+    {
+        "id": 10,
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Saturn_from_Cassini_Orbiter_%282004-10-06%29.jpg/800px-Saturn_from_Cassini_Orbiter_%282004-10-06%29.jpg"
+    },
+    {
+        "id": 11,
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Portrait_of_Jupiter_from_Cassini.jpg"
+    },
+    {
+        "id": 12,
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Andromeda_galaxy.jpg/600px-Andromeda_galaxy.jpg"
+    }
+]
